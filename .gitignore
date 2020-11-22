@@ -1,0 +1,14 @@
+# idea
+.idea/
+
+# data
+data/
+
+# file
+*.xlsx
+*.png
+*.csv
+*.pdf
+*.rar
+*.zip
+*.jpg
