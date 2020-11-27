@@ -1,5 +1,5 @@
 import pandas as pd
-aa =r'1月.xlsx'
+aa =r'0312.xlsx'
 df = pd.DataFrame(pd.read_excel(aa))
 
 #判断每一行数据是否重复（全部相同），False表示不重复，返回值为True表示重复

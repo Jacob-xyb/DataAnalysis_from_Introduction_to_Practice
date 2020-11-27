@@ -17,5 +17,5 @@ print(df)
 # 遍历DataFrame表格数据的每一列
 for col in df.columns:
     # print(col)  # col为一个个列名
-    series = df[col]
+    series = df[col]  # 将df一列变为Series
     print(series)
