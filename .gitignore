@@ -16,4 +16,4 @@ data/
 
 # dir
 # 忽略.ipynb_checkpoints 下所有内容
-.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
